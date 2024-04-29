@@ -916,12 +916,10 @@ COUNCIL
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-29 123400-2.png>)
-![alt text](<Screenshot 2024-04-29 123514.png>)
-![alt text](<Screenshot 2024-04-29 123610.png>)
-![alt text](<Screenshot 2024-04-29 123831.png>)
-
-
+![Screenshot 2024-04-29 123400](https://github.com/Sharan1731/softweb/assets/144980172/75c32c63-7654-43a4-88a7-81581ba28cdd)
+![Screenshot 2024-04-29 123514](https://github.com/Sharan1731/softweb/assets/144980172/9e993a2c-f154-4ed7-9fae-81ac34f5ebee)
+![Screenshot 2024-04-29 123610](https://github.com/Sharan1731/softweb/assets/144980172/05b21ff4-65d5-4128-ac1f-6867ae3369b8)
+![Screenshot 2024-04-29 123831](https://github.com/Sharan1731/softweb/assets/144980172/ab59cc8f-9c5f-4b67-8d6a-c2ee5ccc004f)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
